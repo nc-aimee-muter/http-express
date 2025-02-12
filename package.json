@@ -1,0 +1,25 @@
+{
+  "name": "http-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-http": "node http.js",
+    "start-express": "node express.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nc-aimee-muter/http-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nc-aimee-muter/http-express/issues"
+  },
+  "homepage": "https://github.com/nc-aimee-muter/http-express#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

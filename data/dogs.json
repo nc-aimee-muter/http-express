@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Mia",
+    "breed": "English Springer Spaniel",
+    "colour": "White + Brown"
+  },
+  {
+    "id": 2,
+    "name": "Alfie",
+    "breed": "Shetland Sheepdog x Collie",
+    "colour": "White + Black"
+  },
+
+  {
+    "id": 3,
+    "name": "Cooper",
+    "breed": "Sprocker Collie",
+    "colour": "White + Brown"
+  },
+  {
+    "id": 4,
+    "name": "Maple",
+    "breed": "Working Cocker Spaniel",
+    "colour": "Red"
+  }
+]
